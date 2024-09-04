@@ -34,15 +34,17 @@ For example, if the agent is in state S and takes the "R" action, then there is 
 - The agent receives a reward of 0 for all other states.
 
 ### Graphical Representation
-![](1.png)
+![image](https://github.com/user-attachments/assets/e8b0600a-635a-47af-b5e8-e64d6d94bcab)
+
 
 ## POLICY EVALUATION FUNCTION
-![](2.PNG)
+![image](https://github.com/user-attachments/assets/bde2a599-200f-407a-8d2f-7fc07e556ac4)
+
 
 ## PROGRAM
 ```py
-#program developed by : Marella Dharanesh
-#register no: 2122240062
+#Program Developed by : Marella Dharanesh
+#Register No: 2122240062
 ```
 
 ### predefined environment and functions:
